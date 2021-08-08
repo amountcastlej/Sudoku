@@ -1,3 +1,3 @@
 # Sudoku
 
-![Sudoku](https://github.com/amountcastlej/Sudoku/main/blob/Sudoku.png?raw=true)
+![Sudoku](https://raw.githubusercontent.com/amountcastlej/Sudoku/main/img/Sudoku.png)
